@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Garam%20Yang)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=garam_yang&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garam_yang)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={jhk04})](https://solved.ac/{jhk04})
 
 
 - 👋 Hi, I’m @garam-yang
