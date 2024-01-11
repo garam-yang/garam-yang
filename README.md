@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Garam%20Yang)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=About%20Me)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=garam-yang&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garam-yang)]
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jhk04)](https://solved.ac/jhk04)
